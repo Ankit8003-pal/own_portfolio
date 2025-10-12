@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -128,7 +129,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(back.png.jpg) no-repeat;
+    background: url(kubg.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
